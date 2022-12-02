@@ -1,0 +1,15 @@
+Ecological guilds,,,Guiyang,Paris,Chaohu,Luoping,Xingyi,Guanling
+Tiering,Feeding,Motility,,,,,,
+Pelagic,Predatory,"Freely, fast",20,9,17,43,33,33
+Pelagic,Predatory,"Freely, slow",2,2,0,4,0,0
+Pelagic,Suspension,"Non-motile, attached",1,0,0,0,0,3
+Erect,Other,"Non-motile, attached",0,4,0,0,0,0
+Erect,Suspension,"Non-motile, attached",1,4,0,1,1,0
+Surficial,Predatory,"Freely, slow",1,6,4,6,1,0
+Surficial,Grazing,"Freely, slow",2,1,0,2,0,0
+Surficial,Suspension,Facultative,4,14,2,1,1,12
+Surficial,Suspension,"Non-motile, attached",0,0,0,0,0,1
+Semi-infaunal,Predatory,"Freely, fast",1,2,0,2,0,0
+Semi-infaunal,Surface deposit,"Non-motile, unattached",7,0,7,0,0,0
+Shallow infaunal,Predatory,"Freely, fast",0,0,0,2,0,0
+Shallow infaunal,Suspension,Facultative,1,3,0,1,0,1
